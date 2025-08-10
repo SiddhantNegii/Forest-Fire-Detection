@@ -1,0 +1,9 @@
+torch==2.5.1+cpu
+torchvision==0.20.1+cpu
+torchaudio==2.5.1+cpu
+ultralytics==8.2.77
+opencv-python==4.10.0.84
+numpy==1.26.4
+pillow==10.4.0
+matplotlib==3.9.2
+tqdm==4.66.5
